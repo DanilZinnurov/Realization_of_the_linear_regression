@@ -1,0 +1,1 @@
+# Realization_of_the_linear_regression
